@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784325968555",
+    "firebase_url": "https://cscapp-b629b.firebaseio.com",
+    "project_id": "cscapp-b629b",
+    "storage_bucket": "cscapp-b629b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784325968555:android:550293952c0d06660aadee",
+        "android_client_info": {
+          "package_name": "com.example.csc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784325968555-ns29ovsdraaburlifh89kbdq9l5r1pur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXWCd5fA3BHpsPSCzJIldleJQMYceu-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784325968555-ns29ovsdraaburlifh89kbdq9l5r1pur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
